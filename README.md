@@ -4,8 +4,7 @@
 Analyzed coffee sales data end-to-end using Excel, including data cleaning, trend analysis, and the creation  of a dynamic dashboard.
 
 ## Dataset Used
-- <a href = "https://github.com/Arshawon/Coffee-sales-Excel-Project/blob/main/coffeeOrdersData.xlsx">
-Dataset</a>
+- <a href = "https://github.com/Arshawon/Coffee-sales-Excel-Project/blob/main/coffeeOrdersData.xlsx">Dataset</a>
 
 ## Question KPI's
 
